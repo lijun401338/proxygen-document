@@ -1,0 +1,4 @@
+var structfolly_1_1detail_1_1StateSize_3_01std_1_1subtract__with__carry__engine_3_01UIntType_00_01w_00_01s_00_01r_01_4_01_4 =
+[
+    [ "type", "structfolly_1_1detail_1_1StateSize_3_01std_1_1subtract__with__carry__engine_3_01UIntType_00_01w_00_01s_00_01r_01_4_01_4.html#adcbaa2da1e4f87255d077a81dde77bab", null ]
+];

@@ -1,0 +1,4 @@
+var structfolly_1_1detail_1_1StateSize_3_01RNG_00_01void__t_3_01decltype_07RNG_1_1state__size_08_4_01_4 =
+[
+    [ "type", "structfolly_1_1detail_1_1StateSize_3_01RNG_00_01void__t_3_01decltype_07RNG_1_1state__size_08_4_01_4.html#a79febf495c150ccfef2bedda6f27a2c4", null ]
+];

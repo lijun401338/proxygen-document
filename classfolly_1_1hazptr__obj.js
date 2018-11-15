@@ -1,0 +1,27 @@
+var classfolly_1_1hazptr__obj =
+[
+    [ "ReclaimFnPtr", "classfolly_1_1hazptr__obj.html#aedd61bf24f99615929c96f1eecb5bd37", null ],
+    [ "hazptr_obj", "classfolly_1_1hazptr__obj.html#a5269745ab4f165471d7e5309ed8e6e34", null ],
+    [ "hazptr_obj", "classfolly_1_1hazptr__obj.html#a9fa50728614fad5b1c5a029f99a32050", null ],
+    [ "hazptr_obj", "classfolly_1_1hazptr__obj.html#a800c09893a7b4fda09ef18d4f4493880", null ],
+    [ "next", "classfolly_1_1hazptr__obj.html#a26997d38eb925fcc5a253a0d1a3fadcd", null ],
+    [ "operator=", "classfolly_1_1hazptr__obj.html#a96d7f9ea879b97d4d047bb028635bf36", null ],
+    [ "operator=", "classfolly_1_1hazptr__obj.html#a0d91842a2df5ea0f5531c4f5879cc36a", null ],
+    [ "pre_retire_check", "classfolly_1_1hazptr__obj.html#ae208c34a669b8d9d9ed6068f475e97e8", null ],
+    [ "pre_retire_check_fail", "classfolly_1_1hazptr__obj.html#a2161e7ef8241816bb3154d1218f86751", null ],
+    [ "push_to_retired", "classfolly_1_1hazptr__obj.html#a98e7d52f99d08ee582d5a44f406ded83", null ],
+    [ "raw_ptr", "classfolly_1_1hazptr__obj.html#a31f21c7e229922e453dcd574f6be2622", null ],
+    [ "reclaim", "classfolly_1_1hazptr__obj.html#a77cb27b199ce31ec66adb7dfa28230d8", null ],
+    [ "set_next", "classfolly_1_1hazptr__obj.html#ac6bcf24e92a59a8e738d0fa2497d934f", null ],
+    [ "hazptr_domain", "classfolly_1_1hazptr__obj.html#a94896e4ea169a0eda9e73d2994ac8b32", null ],
+    [ "hazptr_domain< Atom >", "classfolly_1_1hazptr__obj.html#a84537dee0343935d0daee081d71439a6", null ],
+    [ "hazptr_obj_base", "classfolly_1_1hazptr__obj.html#a06fb28e9e8126c870a783c49137b2f90", null ],
+    [ "hazptr_obj_base", "classfolly_1_1hazptr__obj.html#a7c1ba4e7af62d6bfc7efcbccf7d596ae", null ],
+    [ "hazptr_obj_base_linked", "classfolly_1_1hazptr__obj.html#ad86db6868d19a78301b900048b0f9085", null ],
+    [ "hazptr_obj_base_refcounted", "classfolly_1_1hazptr__obj.html#a8ce4c21a9445fa69bb5d331c7659e0c3", null ],
+    [ "hazptr_obj_list", "classfolly_1_1hazptr__obj.html#a6609f9b32e545e7f5e65b09fdbea81c5", null ],
+    [ "hazptr_priv", "classfolly_1_1hazptr__obj.html#a2e3f39cbb2b222319d4bbb8a26b066e0", null ],
+    [ "hazptr_priv< Atom >", "classfolly_1_1hazptr__obj.html#afaf64d0327efb3bd426183b8cde0e463", null ],
+    [ "next_", "classfolly_1_1hazptr__obj.html#ad48e659c92246fbfa09c81dc73301f60", null ],
+    [ "reclaim_", "classfolly_1_1hazptr__obj.html#adc0aa8c9bac5f456c84f8faec02923dc", null ]
+];

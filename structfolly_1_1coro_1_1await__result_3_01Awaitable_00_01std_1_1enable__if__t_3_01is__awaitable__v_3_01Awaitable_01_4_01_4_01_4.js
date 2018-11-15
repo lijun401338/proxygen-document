@@ -1,0 +1,4 @@
+var structfolly_1_1coro_1_1await__result_3_01Awaitable_00_01std_1_1enable__if__t_3_01is__awaitable__v_3_01Awaitable_01_4_01_4_01_4 =
+[
+    [ "type", "structfolly_1_1coro_1_1await__result_3_01Awaitable_00_01std_1_1enable__if__t_3_01is__awaitable__v_3_01Awaitable_01_4_01_4_01_4.html#a1b30f8f69c23c47b09becb3e2144969b", null ]
+];

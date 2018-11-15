@@ -1,0 +1,4 @@
+var structfolly_1_1detail_1_1StateSize_3_01std_1_1linear__congruential__engine_3_01UIntType_00_01a_00_01c_00_01m_01_4_01_4 =
+[
+    [ "type", "structfolly_1_1detail_1_1StateSize_3_01std_1_1linear__congruential__engine_3_01UIntType_00_01a_00_01c_00_01m_01_4_01_4.html#aaac4f0ba2eb9fe967ea65a1d4abc891a", null ]
+];

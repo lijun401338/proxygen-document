@@ -1,0 +1,27 @@
+var Hazptr_fwd_8h =
+[
+    [ "hazptr_rec", "classfolly_1_1hazptr__rec.html", "classfolly_1_1hazptr__rec" ],
+    [ "hazptr_obj", "classfolly_1_1hazptr__obj.html", "classfolly_1_1hazptr__obj" ],
+    [ "hazptr_obj_list", "classfolly_1_1hazptr__obj__list.html", "classfolly_1_1hazptr__obj__list" ],
+    [ "hazptr_deleter", "classfolly_1_1hazptr__deleter.html", "classfolly_1_1hazptr__deleter" ],
+    [ "hazptr_obj_base", "classfolly_1_1hazptr__obj__base.html", "classfolly_1_1hazptr__obj__base" ],
+    [ "hazptr_root", "classfolly_1_1hazptr__root.html", "classfolly_1_1hazptr__root" ],
+    [ "hazptr_obj_linked", "classfolly_1_1hazptr__obj__linked.html", "classfolly_1_1hazptr__obj__linked" ],
+    [ "hazptr_obj_base_linked", "classfolly_1_1hazptr__obj__base__linked.html", "classfolly_1_1hazptr__obj__base__linked" ],
+    [ "hazptr_tc_entry", "classfolly_1_1hazptr__tc__entry.html", null ],
+    [ "hazptr_tc", "classfolly_1_1hazptr__tc.html", null ],
+    [ "hazptr_priv", "classfolly_1_1hazptr__priv.html", null ],
+    [ "hazptr_domain", "classfolly_1_1hazptr__domain.html", "classfolly_1_1hazptr__domain" ],
+    [ "hazptr_holder", "classfolly_1_1hazptr__holder.html", "classfolly_1_1hazptr__holder" ],
+    [ "hazptr_array", "classfolly_1_1hazptr__array.html", "classfolly_1_1hazptr__array" ],
+    [ "hazptr_local", "classfolly_1_1hazptr__local.html", "classfolly_1_1hazptr__local" ],
+    [ "FOLLY_HAZPTR_THR_LOCAL", "Hazptr-fwd_8h.html#a72fd32e45c7cde9226bc72294f4a37e6", null ],
+    [ "default_hazptr_domain", "Hazptr-fwd_8h.html#a7fe3c6e31f3dc644def6932773169313", null ],
+    [ "hazptr_cleanup", "Hazptr-fwd_8h.html#af2654e0eb8f476e182d7e7bcdaac1dcd", null ],
+    [ "hazptr_domain_push_retired", "Hazptr-fwd_8h.html#ae331eb269d9245c94733b35d7ae130e5", null ],
+    [ "hazptr_priv_tls", "Hazptr-fwd_8h.html#a2065e7f15844830ea359510b12dc9d2d", null ],
+    [ "hazptr_retire", "Hazptr-fwd_8h.html#aada5178c3b9f19a424e7537d388b7678", null ],
+    [ "hazptr_tc_tls", "Hazptr-fwd_8h.html#a4cfcf45e8b871d357e20e929ab7cc486", null ],
+    [ "swap", "Hazptr-fwd_8h.html#a2c1bc89cf43d8d709594bcd04bc55942", null ],
+    [ "default_domain", "Hazptr-fwd_8h.html#a125e3314e997c830b1696be7a83d96e7", null ]
+];

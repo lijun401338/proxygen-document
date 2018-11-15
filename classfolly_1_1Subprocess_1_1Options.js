@@ -1,0 +1,26 @@
+var classfolly_1_1Subprocess_1_1Options =
+[
+    [ "FdMap", "classfolly_1_1Subprocess_1_1Options.html#a33711d945ef161793deeea2ac19302e2", null ],
+    [ "Options", "classfolly_1_1Subprocess_1_1Options.html#adb1eda818a4ca86ebf4e4839eea05faf", null ],
+    [ "chdir", "classfolly_1_1Subprocess_1_1Options.html#aab5a05dee974890a5e913d262f409cea", null ],
+    [ "closeOtherFds", "classfolly_1_1Subprocess_1_1Options.html#a13a41081f05a823efd3f89ae50f38549", null ],
+    [ "dangerousPostForkPreExecCallback", "classfolly_1_1Subprocess_1_1Options.html#a0931fc5f4cc0c15be58a0c0b119fc2ba", null ],
+    [ "detach", "classfolly_1_1Subprocess_1_1Options.html#a412303bcb10d186bf6c41d083e694596", null ],
+    [ "fd", "classfolly_1_1Subprocess_1_1Options.html#ad6526760c19a1c0743567d2760f92400", null ],
+    [ "pipeStderr", "classfolly_1_1Subprocess_1_1Options.html#a70b75310a4a6442a5f059efa8b15ece1", null ],
+    [ "pipeStdin", "classfolly_1_1Subprocess_1_1Options.html#a578a9a78c4c85ac0db2ef914ecdbe592", null ],
+    [ "pipeStdout", "classfolly_1_1Subprocess_1_1Options.html#ae8849c9d889bb5f38f0fdd47fb50a38e", null ],
+    [ "processGroupLeader", "classfolly_1_1Subprocess_1_1Options.html#ad473ef49a5267754f28ebdb012686e48", null ],
+    [ "stderrFd", "classfolly_1_1Subprocess_1_1Options.html#a01c2f92d898e3649ba473ccb05b9c246", null ],
+    [ "stdinFd", "classfolly_1_1Subprocess_1_1Options.html#ac15e9e6326fa4aa6be7f84b07b1a43ac", null ],
+    [ "stdoutFd", "classfolly_1_1Subprocess_1_1Options.html#a395be57b1af887ac016c68598eaaa78e", null ],
+    [ "usePath", "classfolly_1_1Subprocess_1_1Options.html#a0c1e5dbf23ef26482bd8715b983956c0", null ],
+    [ "Subprocess", "classfolly_1_1Subprocess_1_1Options.html#a3d12fd22e5deb76d3529ce4e6d9179dc", null ],
+    [ "childDir_", "classfolly_1_1Subprocess_1_1Options.html#ac88e0e0e5276ccd29d718c20e80cdd3b", null ],
+    [ "closeOtherFds_", "classfolly_1_1Subprocess_1_1Options.html#a721ed946b1b2c9dd7580d1b2ba082925", null ],
+    [ "dangerousPostForkPreExecCallback_", "classfolly_1_1Subprocess_1_1Options.html#a06906a68dbbd3a5fbe204e2fad251714", null ],
+    [ "detach_", "classfolly_1_1Subprocess_1_1Options.html#a9de5e6c5376737714833dde0bd0ea5dc", null ],
+    [ "fdActions_", "classfolly_1_1Subprocess_1_1Options.html#a3a070baed8171964a98ec58c08a73c91", null ],
+    [ "processGroupLeader_", "classfolly_1_1Subprocess_1_1Options.html#ab50527a427df7084a19229b42a0be819", null ],
+    [ "usePath_", "classfolly_1_1Subprocess_1_1Options.html#a6d3590d684961aab243478455830812b", null ]
+];

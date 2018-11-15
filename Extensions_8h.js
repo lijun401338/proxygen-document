@@ -1,0 +1,36 @@
+var Extensions_8h =
+[
+    [ "SignatureAlgorithms", "structfizz_1_1SignatureAlgorithms.html", "structfizz_1_1SignatureAlgorithms" ],
+    [ "SupportedGroups", "structfizz_1_1SupportedGroups.html", "structfizz_1_1SupportedGroups" ],
+    [ "KeyShareEntry", "structfizz_1_1KeyShareEntry.html", "structfizz_1_1KeyShareEntry" ],
+    [ "ClientKeyShare", "structfizz_1_1ClientKeyShare.html", "structfizz_1_1ClientKeyShare" ],
+    [ "ServerKeyShare", "structfizz_1_1ServerKeyShare.html", "structfizz_1_1ServerKeyShare" ],
+    [ "HelloRetryRequestKeyShare", "structfizz_1_1HelloRetryRequestKeyShare.html", "structfizz_1_1HelloRetryRequestKeyShare" ],
+    [ "PskIdentity", "structfizz_1_1PskIdentity.html", "structfizz_1_1PskIdentity" ],
+    [ "PskBinder", "structfizz_1_1PskBinder.html", "structfizz_1_1PskBinder" ],
+    [ "ClientPresharedKey", "structfizz_1_1ClientPresharedKey.html", "structfizz_1_1ClientPresharedKey" ],
+    [ "ServerPresharedKey", "structfizz_1_1ServerPresharedKey.html", "structfizz_1_1ServerPresharedKey" ],
+    [ "ClientEarlyData", "structfizz_1_1ClientEarlyData.html", "structfizz_1_1ClientEarlyData" ],
+    [ "ServerEarlyData", "structfizz_1_1ServerEarlyData.html", "structfizz_1_1ServerEarlyData" ],
+    [ "TicketEarlyData", "structfizz_1_1TicketEarlyData.html", "structfizz_1_1TicketEarlyData" ],
+    [ "Cookie", "structfizz_1_1Cookie.html", "structfizz_1_1Cookie" ],
+    [ "SupportedVersions", "structfizz_1_1SupportedVersions.html", "structfizz_1_1SupportedVersions" ],
+    [ "ServerSupportedVersions", "structfizz_1_1ServerSupportedVersions.html", "structfizz_1_1ServerSupportedVersions" ],
+    [ "PskKeyExchangeModes", "structfizz_1_1PskKeyExchangeModes.html", "structfizz_1_1PskKeyExchangeModes" ],
+    [ "ProtocolName", "structfizz_1_1ProtocolName.html", "structfizz_1_1ProtocolName" ],
+    [ "ProtocolNameList", "structfizz_1_1ProtocolNameList.html", "structfizz_1_1ProtocolNameList" ],
+    [ "ServerName", "structfizz_1_1ServerName.html", "structfizz_1_1ServerName" ],
+    [ "ServerNameList", "structfizz_1_1ServerNameList.html", "structfizz_1_1ServerNameList" ],
+    [ "DistinguishedName", "structfizz_1_1DistinguishedName.html", "structfizz_1_1DistinguishedName" ],
+    [ "CertificateAuthorities", "structfizz_1_1CertificateAuthorities.html", "structfizz_1_1CertificateAuthorities" ],
+    [ "CertificateCompressionAlgorithms", "structfizz_1_1CertificateCompressionAlgorithms.html", "structfizz_1_1CertificateCompressionAlgorithms" ],
+    [ "ServerNameType", "Extensions_8h.html#a066fe79466b8fe40e2ae2d892bf896dd", [
+      [ "host_name", "Extensions_8h.html#a066fe79466b8fe40e2ae2d892bf896ddade2cd101441c0d4f2724bf52cc7047be", null ]
+    ] ],
+    [ "encodeExtension", "Extensions_8h.html#ac2650964def0c5cdab19fe4bd5bf9a03", null ],
+    [ "findExtension", "Extensions_8h.html#a5f0e12face76753128c184ad23a17c24", null ],
+    [ "getBinderLength", "Extensions_8h.html#aebe96b30473a27e492b63cb870a9695d", null ],
+    [ "getExtension", "Extensions_8h.html#afd8e6ab2e4d0419231f89c3b0447b3b2", null ],
+    [ "getExtension", "Extensions_8h.html#aa370d3c3e9a0d0c285ab61acc6a28922", null ],
+    [ "getExtension", "Extensions_8h.html#ad3fae5d61ae9b4789a4a12d817cd085d", null ]
+];

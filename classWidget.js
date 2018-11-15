@@ -1,0 +1,27 @@
+var classWidget =
+[
+    [ "Widget", "classWidget.html#ab573b75a8a69d29c298af2485fb9cda9", null ],
+    [ "~Widget", "classWidget.html#aa24f66bcbaaec6d458b0980e8c8eae65", null ],
+    [ "~Widget", "classWidget.html#aa24f66bcbaaec6d458b0980e8c8eae65", null ],
+    [ "Widget", "classWidget.html#ab573b75a8a69d29c298af2485fb9cda9", null ],
+    [ "~Widget", "classWidget.html#aa24f66bcbaaec6d458b0980e8c8eae65", null ],
+    [ "Widget", "classWidget.html#ab573b75a8a69d29c298af2485fb9cda9", null ],
+    [ "~Widget", "classWidget.html#aa24f66bcbaaec6d458b0980e8c8eae65", null ],
+    [ "customDeleter", "classWidget.html#acae49fa5fa61ab76c62f48e65af0f126", null ],
+    [ "GetCharPtrValue", "classWidget.html#af04038bacd7f650695b4c92d45ee2cbd", null ],
+    [ "GetCharPtrValue", "classWidget.html#af04038bacd7f650695b4c92d45ee2cbd", null ],
+    [ "GetCharPtrValue", "classWidget.html#af04038bacd7f650695b4c92d45ee2cbd", null ],
+    [ "GetFloatValue", "classWidget.html#a95fac059ee7d3b7e2df2beb4d1b94dfa", null ],
+    [ "GetFloatValue", "classWidget.html#a95fac059ee7d3b7e2df2beb4d1b94dfa", null ],
+    [ "GetFloatValue", "classWidget.html#a95fac059ee7d3b7e2df2beb4d1b94dfa", null ],
+    [ "GetIntValue", "classWidget.html#a699748239d35b7f6de47db34e1d4a624", null ],
+    [ "GetIntValue", "classWidget.html#a699748239d35b7f6de47db34e1d4a624", null ],
+    [ "GetIntValue", "classWidget.html#a699748239d35b7f6de47db34e1d4a624", null ],
+    [ "GetStringValue", "classWidget.html#ac154bf7cf4589a9e67ea29b0904eab87", null ],
+    [ "GetStringValue", "classWidget.html#ac154bf7cf4589a9e67ea29b0904eab87", null ],
+    [ "GetStringValue", "classWidget.html#ac154bf7cf4589a9e67ea29b0904eab87", null ],
+    [ "name_", "classWidget.html#a1d2f74810f3f912270a681e0671a7a55", null ],
+    [ "number_", "classWidget.html#a27a2b3fd66372d5731fa9a6bcaab755b", null ],
+    [ "totalVal_", "classWidget.html#a5071d0d1a6a4742fdc71bd05d201d5e3", null ],
+    [ "val_", "classWidget.html#a6a6345077612ec6e26bad73501c02a06", null ]
+];

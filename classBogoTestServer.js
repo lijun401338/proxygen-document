@@ -1,0 +1,27 @@
+var classBogoTestServer =
+[
+    [ "BogoTestServer", "classBogoTestServer.html#a0fd813690721cd9daf9770e7eb45ef72", null ],
+    [ "connectErr", "classBogoTestServer.html#a2d56e09bfd4e3b85f6ab3dd5a72e9aa7", null ],
+    [ "connectSuccess", "classBogoTestServer.html#a9137434eaf4876ee3629aa9d18bd0828", null ],
+    [ "fizzHandshakeAttemptFallback", "classBogoTestServer.html#af0d39812111249c3670cd2940d42c9d8", null ],
+    [ "fizzHandshakeError", "classBogoTestServer.html#a2a796c255fbd156382ffd33495ad3343", null ],
+    [ "fizzHandshakeSuccess", "classBogoTestServer.html#a410d09a2faf971acfdaa82860dd1aeb9", null ],
+    [ "getReadBuffer", "classBogoTestServer.html#ad7f8860576e92ffa066da3e0b04b4b98", null ],
+    [ "handshakeErr", "classBogoTestServer.html#aa2f415d9ca1f6d463f79639a27e1af7e", null ],
+    [ "handshakeSuc", "classBogoTestServer.html#a76ca5eda15fb201ab779aef4e76dc334", null ],
+    [ "isBufferMovable", "classBogoTestServer.html#a69fb08530e10faf3cd83aab67ce2b209", null ],
+    [ "readBufferAvailable", "classBogoTestServer.html#a0553c0f8395652747a5f770c8f2c75db", null ],
+    [ "readDataAvailable", "classBogoTestServer.html#aaa6b8fa05e73c0452cfe57aafe5f42c9", null ],
+    [ "readEOF", "classBogoTestServer.html#ad1972ed4ad7363f0594b92973325d6b9", null ],
+    [ "readErr", "classBogoTestServer.html#ae6f611f28883dd6793a625d97474b33f", null ],
+    [ "success", "classBogoTestServer.html#a767145057b80d38fb864f9f0315f3eef", null ],
+    [ "unimplemented", "classBogoTestServer.html#ab8399183cff0a03c524bfaa39ac67028", null ],
+    [ "evb_", "classBogoTestServer.html#a8a726769ec4b221008af59ff20f5392a", null ],
+    [ "serverContext_", "classBogoTestServer.html#a12ff2a68c5731fc34c28239b1454809f", null ],
+    [ "socket_", "classBogoTestServer.html#a1bad791afe419bbb1cd49e59151e8d41", null ],
+    [ "sslContext_", "classBogoTestServer.html#a6a2fee8a38fd225b76b2dc67e005561b", null ],
+    [ "sslSocket_", "classBogoTestServer.html#a180caada4b9f54f75b819e598121543b", null ],
+    [ "success_", "classBogoTestServer.html#a170d055094a596e588bd7c5cc4acd211", null ],
+    [ "transport_", "classBogoTestServer.html#adc81f045cd9defff53a93bc6abec2353", null ],
+    [ "unimplemented_", "classBogoTestServer.html#a6250bbee7c029068e694d9cb7ba26cee", null ]
+];

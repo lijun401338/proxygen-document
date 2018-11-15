@@ -1,0 +1,25 @@
+var structwangle_1_1ServerSocketConfig =
+[
+    [ "ServerSocketConfig", "structwangle_1_1ServerSocketConfig.html#a16a62925ba0aa510d3cf8cc8deb69ddd", null ],
+    [ "getSocketOptions", "structwangle_1_1ServerSocketConfig.html#a0d1c34bc6e262943629a524f74685e85", null ],
+    [ "getSocketOptions", "structwangle_1_1ServerSocketConfig.html#a48d16bf0fd3c5ecfeaa4b6bafcceb4aa", null ],
+    [ "hasExternalPrivateKey", "structwangle_1_1ServerSocketConfig.html#a1a2a2097300faafb9bc0cd269197d2d7", null ],
+    [ "isSSL", "structwangle_1_1ServerSocketConfig.html#a0e6fd498bd4eb5dd0aad9c7e461a80ec", null ],
+    [ "setSocketOptions", "structwangle_1_1ServerSocketConfig.html#afed95867d2c6202af578d42b32457281", null ],
+    [ "acceptBacklog", "structwangle_1_1ServerSocketConfig.html#a9bbfea8825d9a9e7174828a3498e525f", null ],
+    [ "allowInsecureConnectionsOnSecureServer", "structwangle_1_1ServerSocketConfig.html#aea16a2329a25b2b6a6c5d593d4feda19", null ],
+    [ "bindAddress", "structwangle_1_1ServerSocketConfig.html#ac8bf983fb991614555ae89c835f43cdc", null ],
+    [ "connectionIdleTimeout", "structwangle_1_1ServerSocketConfig.html#ac2412ef71d4b4b3a9d576a75a848ad25", null ],
+    [ "enableTCPFastOpen", "structwangle_1_1ServerSocketConfig.html#ad082c46776aa3830c91a79fcb5cb0483", null ],
+    [ "fastOpenQueueSize", "structwangle_1_1ServerSocketConfig.html#a5efb73f5547ad40d3857dfe426ab2454", null ],
+    [ "fizzConfig", "structwangle_1_1ServerSocketConfig.html#a21349236a338f4586dfde3edf1382b03", null ],
+    [ "initialTicketSeeds", "structwangle_1_1ServerSocketConfig.html#a4ac2586a5c3c7feb5c7dc5591adca21a", null ],
+    [ "maxConcurrentSSLHandshakes", "structwangle_1_1ServerSocketConfig.html#a4592a45370bb0402545d06cd4413d4e1", null ],
+    [ "maxNumPendingConnectionsPerWorker", "structwangle_1_1ServerSocketConfig.html#abfeaae359f52346b16aad0bfc24b473b", null ],
+    [ "name", "structwangle_1_1ServerSocketConfig.html#a5df8e0d1658f496b28268ca949c0bc92", null ],
+    [ "socketOptions_", "structwangle_1_1ServerSocketConfig.html#adadea03214c5d3e4e85d86120481492c", null ],
+    [ "sslCacheOptions", "structwangle_1_1ServerSocketConfig.html#a5a07feaa01ea8e73d0e18c57cb523506", null ],
+    [ "sslContextConfigs", "structwangle_1_1ServerSocketConfig.html#aa03e9e83b98bb36d457c91618eb83f81", null ],
+    [ "sslHandshakeTimeout", "structwangle_1_1ServerSocketConfig.html#a9e407445ac9d87d34d99e94c2d752cba", null ],
+    [ "strictSSL", "structwangle_1_1ServerSocketConfig.html#ad6ede6f1604c80fb71ea07006fd16d13", null ]
+];

@@ -1,0 +1,4 @@
+var structfolly_1_1threadlocal__detail_1_1static__meta__of_3_01ThreadLocal_3_01T_00_01Tag_00_01AccessMode_01_4_01_4 =
+[
+    [ "type", "structfolly_1_1threadlocal__detail_1_1static__meta__of_3_01ThreadLocal_3_01T_00_01Tag_00_01AccessMode_01_4_01_4.html#a932e708432def4b28548f1181e5e5a3e", null ]
+];

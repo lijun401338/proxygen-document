@@ -1,0 +1,27 @@
+var classfolly_1_1NotificationQueue_1_1Consumer =
+[
+    [ "kDefaultMaxReadAtOnce", "classfolly_1_1NotificationQueue_1_1Consumer.html#a2f091cc80f21207583344fe3114211b8abbfefae64e5781c5ca5872a26d06eca9", null ],
+    [ "Consumer", "classfolly_1_1NotificationQueue_1_1Consumer.html#aa8cc49f185e8fb17c81f66edbea32f1f", null ],
+    [ "~Consumer", "classfolly_1_1NotificationQueue_1_1Consumer.html#a353810c3ec8b350057aae7861d247895", null ],
+    [ "consumeMessages", "classfolly_1_1NotificationQueue_1_1Consumer.html#add13b307eeeec1b789c3f768f954e4b9", null ],
+    [ "consumeUntilDrained", "classfolly_1_1NotificationQueue_1_1Consumer.html#a63bd1f4d224c201e8a8cea0ec6a10bbf", null ],
+    [ "destroy", "classfolly_1_1NotificationQueue_1_1Consumer.html#ac0baa11215fd74b8f248e7764236c5fb", null ],
+    [ "getCurrentQueue", "classfolly_1_1NotificationQueue_1_1Consumer.html#a6543eca1d28dbd08912b0fbe284991cb", null ],
+    [ "getEventBase", "classfolly_1_1NotificationQueue_1_1Consumer.html#ae0411330052b443f1d16d35160adceb5", null ],
+    [ "getMaxReadAtOnce", "classfolly_1_1NotificationQueue_1_1Consumer.html#a2072132bc281240daf0948a8f84ccbab", null ],
+    [ "handlerReady", "classfolly_1_1NotificationQueue_1_1Consumer.html#aa5304eecc250a89da1b1da79735b6002", null ],
+    [ "init", "classfolly_1_1NotificationQueue_1_1Consumer.html#a39640eef1f3139a38661c160110e14a2", null ],
+    [ "make", "classfolly_1_1NotificationQueue_1_1Consumer.html#a64954367cd70537e087d9ded1288664d", null ],
+    [ "make", "classfolly_1_1NotificationQueue_1_1Consumer.html#ae0e03d013fd1d2a1891eea0f396d0471", null ],
+    [ "messageAvailable", "classfolly_1_1NotificationQueue_1_1Consumer.html#a8403f2371f048075783d022528c8dfc2", null ],
+    [ "setActive", "classfolly_1_1NotificationQueue_1_1Consumer.html#a489f5ba7594bf9a31f53ecbb1ffbd7c9", null ],
+    [ "setMaxReadAtOnce", "classfolly_1_1NotificationQueue_1_1Consumer.html#a5d50d4d03ad7c4fea23922175cf1f8e6", null ],
+    [ "startConsuming", "classfolly_1_1NotificationQueue_1_1Consumer.html#a863f5ff25d0e48eb6f95dcfdf5e99101", null ],
+    [ "startConsumingInternal", "classfolly_1_1NotificationQueue_1_1Consumer.html#a606f53726cf7b08369b3a1ae02d4faa7", null ],
+    [ "stopConsuming", "classfolly_1_1NotificationQueue_1_1Consumer.html#a043365077a8d957fe97d9de189f44127", null ],
+    [ "active_", "classfolly_1_1NotificationQueue_1_1Consumer.html#adead3e4788fa27b026d8143c70c09f43", null ],
+    [ "base_", "classfolly_1_1NotificationQueue_1_1Consumer.html#a9f43b109b231165e7c8a4f1ba2a2e70e", null ],
+    [ "destroyedFlagPtr_", "classfolly_1_1NotificationQueue_1_1Consumer.html#a8511fac21cf518d6e808ea5fe66c50ef", null ],
+    [ "maxReadAtOnce_", "classfolly_1_1NotificationQueue_1_1Consumer.html#a5e1502f0a56fa6a3b646c2d1f6f09ded", null ],
+    [ "queue_", "classfolly_1_1NotificationQueue_1_1Consumer.html#a5665abc2c1f12d5feb5e8f9e477a2524", null ]
+];

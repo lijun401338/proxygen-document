@@ -1,0 +1,4 @@
+var structfolly_1_1DynamicConstructor_3_01C_00_01typename_01std_1_1enable__if_3_01_9std_1_1is__same_96efb2e6e0acb6b0ca0a5449884f07f6 =
+[
+    [ "construct", "structfolly_1_1DynamicConstructor_3_01C_00_01typename_01std_1_1enable__if_3_01_9std_1_1is__same_96efb2e6e0acb6b0ca0a5449884f07f6.html#a6b417c9633d58526dec4816f0afcc722", null ]
+];

@@ -1,0 +1,7 @@
+var structfolly_1_1detail_1_1BitsTraits_3_01Unaligned_3_01T_01_4_00_01typename_01std_1_1enable__if_3f611650a262f317682b06e5a29269f02 =
+[
+    [ "UnderlyingType", "structfolly_1_1detail_1_1BitsTraits_3_01Unaligned_3_01T_01_4_00_01typename_01std_1_1enable__if_3f611650a262f317682b06e5a29269f02.html#a4c96e83556e91b070db13345f7d19635", null ],
+    [ "load", "structfolly_1_1detail_1_1BitsTraits_3_01Unaligned_3_01T_01_4_00_01typename_01std_1_1enable__if_3f611650a262f317682b06e5a29269f02.html#a85c93d737c1575280e040fd6708712bc", null ],
+    [ "loadRMW", "structfolly_1_1detail_1_1BitsTraits_3_01Unaligned_3_01T_01_4_00_01typename_01std_1_1enable__if_3f611650a262f317682b06e5a29269f02.html#a7684710d4e04e779df11e0d7b97947f5", null ],
+    [ "store", "structfolly_1_1detail_1_1BitsTraits_3_01Unaligned_3_01T_01_4_00_01typename_01std_1_1enable__if_3f611650a262f317682b06e5a29269f02.html#a9e19d3ffc9370b5a5cebd40a37b2a113", null ]
+];

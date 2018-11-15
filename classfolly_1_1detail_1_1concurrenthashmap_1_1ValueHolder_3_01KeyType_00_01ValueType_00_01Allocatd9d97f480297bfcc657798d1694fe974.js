@@ -1,0 +1,10 @@
+var classfolly_1_1detail_1_1concurrenthashmap_1_1ValueHolder_3_01KeyType_00_01ValueType_00_01Allocatd9d97f480297bfcc657798d1694fe974 =
+[
+    [ "value_type", "classfolly_1_1detail_1_1concurrenthashmap_1_1ValueHolder_3_01KeyType_00_01ValueType_00_01Allocatd9d97f480297bfcc657798d1694fe974.html#af4bb0510a756792712581eb1848bcef7", null ],
+    [ "ValueHolder", "classfolly_1_1detail_1_1concurrenthashmap_1_1ValueHolder_3_01KeyType_00_01ValueType_00_01Allocatd9d97f480297bfcc657798d1694fe974.html#a8f72e604bd327a807761d091fb0284e4", null ],
+    [ "ValueHolder", "classfolly_1_1detail_1_1concurrenthashmap_1_1ValueHolder_3_01KeyType_00_01ValueType_00_01Allocatd9d97f480297bfcc657798d1694fe974.html#a06c40888613afe183982916c4aa540d7", null ],
+    [ "~ValueHolder", "classfolly_1_1detail_1_1concurrenthashmap_1_1ValueHolder_3_01KeyType_00_01ValueType_00_01Allocatd9d97f480297bfcc657798d1694fe974.html#a34c3f27f99045786425c0c8dcacf8875", null ],
+    [ "getItem", "classfolly_1_1detail_1_1concurrenthashmap_1_1ValueHolder_3_01KeyType_00_01ValueType_00_01Allocatd9d97f480297bfcc657798d1694fe974.html#a87c198feddd5d32b2321b85e7fa16809", null ],
+    [ "item_", "classfolly_1_1detail_1_1concurrenthashmap_1_1ValueHolder_3_01KeyType_00_01ValueType_00_01Allocatd9d97f480297bfcc657798d1694fe974.html#abc8e75d206a50a3f7915ce56571693a0", null ],
+    [ "owned_", "classfolly_1_1detail_1_1concurrenthashmap_1_1ValueHolder_3_01KeyType_00_01ValueType_00_01Allocatd9d97f480297bfcc657798d1694fe974.html#a5d794a9a30ab6be5e33407a8008fc45c", null ]
+];

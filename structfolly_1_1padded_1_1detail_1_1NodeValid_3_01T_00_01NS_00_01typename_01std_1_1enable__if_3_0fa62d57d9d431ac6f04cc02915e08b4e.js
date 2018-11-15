@@ -1,0 +1,4 @@
+var structfolly_1_1padded_1_1detail_1_1NodeValid_3_01T_00_01NS_00_01typename_01std_1_1enable__if_3_0fa62d57d9d431ac6f04cc02915e08b4e =
+[
+    [ "type", "structfolly_1_1padded_1_1detail_1_1NodeValid_3_01T_00_01NS_00_01typename_01std_1_1enable__if_3_0fa62d57d9d431ac6f04cc02915e08b4e.html#a8825534a75b9cbfae919eff2e7afe849", null ]
+];

@@ -1,0 +1,4 @@
+var structfolly_1_1fibers_1_1detail_1_1ExtractFirstArg_3_01Ret_07T_1_1_5_08_07First_00_01Args_8_8_8_08_4 =
+[
+    [ "type", "structfolly_1_1fibers_1_1detail_1_1ExtractFirstArg_3_01Ret_07T_1_1_5_08_07First_00_01Args_8_8_8_08_4.html#a5b37235329e49a62332a9cb54d062d24", null ]
+];

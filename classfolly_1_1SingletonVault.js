@@ -1,0 +1,36 @@
+var classfolly_1_1SingletonVault =
+[
+    [ "ScopedExpunger", "structfolly_1_1SingletonVault_1_1ScopedExpunger.html", "structfolly_1_1SingletonVault_1_1ScopedExpunger" ],
+    [ "CreateFunc", "classfolly_1_1SingletonVault.html#ab9aabace8e7de85f2b947597d39ac552", null ],
+    [ "SingletonMap", "classfolly_1_1SingletonVault.html#ae0da6ddcba2c86e6a295b433ead3bb6a", null ],
+    [ "StackTraceGetterPtr", "classfolly_1_1SingletonVault.html#aaa5a66712c8b4646182efb19dabe5141", null ],
+    [ "TeardownFunc", "classfolly_1_1SingletonVault.html#a3ef45e9a0527ac1b34676a4ea1dcf9b1", null ],
+    [ "Type", "classfolly_1_1SingletonVault.html#ab94de3516c61e7b40a6a13bcacb7dd9d", [
+      [ "Strict", "classfolly_1_1SingletonVault.html#ab94de3516c61e7b40a6a13bcacb7dd9da2e979835dd62324f5bfe217449ba4974", null ],
+      [ "Relaxed", "classfolly_1_1SingletonVault.html#ab94de3516c61e7b40a6a13bcacb7dd9da4160be5df3fc34c3b165f28616f1bd16", null ]
+    ] ],
+    [ "SingletonVault", "classfolly_1_1SingletonVault.html#a906df4c34dbe4df6c40979fbd97569ee", null ],
+    [ "~SingletonVault", "classfolly_1_1SingletonVault.html#a3ecc3e54cbcf8c92dea6ade5e9ac3857", null ],
+    [ "addEagerInitSingleton", "classfolly_1_1SingletonVault.html#a5342edc378a764b716e251ac16e9ca34", null ],
+    [ "defaultVaultType", "classfolly_1_1SingletonVault.html#a13437acd6f3ccf4277872520fc6a47bc", null ],
+    [ "destroyInstances", "classfolly_1_1SingletonVault.html#adfca9dd05bdb9bdadf97810ba212ed29", null ],
+    [ "doEagerInit", "classfolly_1_1SingletonVault.html#a144f829fa12b61c5ce0cd9240698938d", null ],
+    [ "doEagerInitVia", "classfolly_1_1SingletonVault.html#ad286ab172faa1be7ea60bde916ea071d", null ],
+    [ "eagerInitComplete", "classfolly_1_1SingletonVault.html#a78760ef5ad5d341379ed4221170fb723", null ],
+    [ "livingSingletonCount", "classfolly_1_1SingletonVault.html#a1722783802047740037c5efbbb7e8f20", null ],
+    [ "reenableInstances", "classfolly_1_1SingletonVault.html#afa761a614e756724fdb8cf23bd33217a", null ],
+    [ "registeredSingletonCount", "classfolly_1_1SingletonVault.html#a320c7eeadea48018110c63db01e5a5e4", null ],
+    [ "registerSingleton", "classfolly_1_1SingletonVault.html#a5f57b580aa4108b8cbe373670908d1c5", null ],
+    [ "registrationComplete", "classfolly_1_1SingletonVault.html#ae0a17c479ee6cae764a83f1d71d39e6d", null ],
+    [ "scheduleDestroyInstances", "classfolly_1_1SingletonVault.html#a688f0dc99602971634a73714619e712e", null ],
+    [ "setType", "classfolly_1_1SingletonVault.html#aa9fd089b01038de55803ff13250c9001", null ],
+    [ "singleton", "classfolly_1_1SingletonVault.html#aefb01d05e281beaa414c786539ce6158", null ],
+    [ "singleton", "classfolly_1_1SingletonVault.html#ae4d6060250c267fe2d7736a45b39f73d", null ],
+    [ "stackTraceGetter", "classfolly_1_1SingletonVault.html#a7ca79c5dffa6c8fe21bce7dc85205110", null ],
+    [ "detail::SingletonHolder", "classfolly_1_1SingletonVault.html#a79eee97c2a134df0977870e438196ac4", null ],
+    [ "creationOrder_", "classfolly_1_1SingletonVault.html#a245ac499aa827d4833150fb67b7d2281", null ],
+    [ "eagerInitSingletons_", "classfolly_1_1SingletonVault.html#ae1680e55af6dfebbc12ba8730d21f935", null ],
+    [ "singletons_", "classfolly_1_1SingletonVault.html#a6bab7caded3d95165f0440c19df40a5a", null ],
+    [ "state_", "classfolly_1_1SingletonVault.html#a04b75971ea1bf8d39d6366451a02d4ec", null ],
+    [ "type_", "classfolly_1_1SingletonVault.html#af40d1fba9f4209d7cb5fecc842cc0601", null ]
+];

@@ -1,0 +1,25 @@
+var namespacefolly_1_1coro_1_1detail =
+[
+    [ "_has_free_operator_co_await", "structfolly_1_1coro_1_1detail_1_1__has__free__operator__co__await.html", null ],
+    [ "_has_member_operator_co_await", "structfolly_1_1coro_1_1detail_1_1__has__member__operator__co__await.html", null ],
+    [ "_is_coroutine_handle", "structfolly_1_1coro_1_1detail_1_1__is__coroutine__handle.html", null ],
+    [ "_is_coroutine_handle< std::experimental::coroutine_handle< T > >", "structfolly_1_1coro_1_1detail_1_1__is__coroutine__handle_3_01std_1_1experimental_1_1coroutine__handle_3_01T_01_4_01_4.html", null ],
+    [ "_is_valid_await_suspend_return_type", "structfolly_1_1coro_1_1detail_1_1__is__valid__await__suspend__return__type.html", null ],
+    [ "BlockingWaitPromise", "classfolly_1_1coro_1_1detail_1_1BlockingWaitPromise.html", "classfolly_1_1coro_1_1detail_1_1BlockingWaitPromise" ],
+    [ "BlockingWaitPromise< T & >", "classfolly_1_1coro_1_1detail_1_1BlockingWaitPromise_3_01T_01_6_01_4.html", "classfolly_1_1coro_1_1detail_1_1BlockingWaitPromise_3_01T_01_6_01_4" ],
+    [ "BlockingWaitPromise< void >", "classfolly_1_1coro_1_1detail_1_1BlockingWaitPromise_3_01void_01_4.html", "classfolly_1_1coro_1_1detail_1_1BlockingWaitPromise_3_01void_01_4" ],
+    [ "BlockingWaitPromiseBase", "classfolly_1_1coro_1_1detail_1_1BlockingWaitPromiseBase.html", "classfolly_1_1coro_1_1detail_1_1BlockingWaitPromiseBase" ],
+    [ "BlockingWaitTask", "classfolly_1_1coro_1_1detail_1_1BlockingWaitTask.html", "classfolly_1_1coro_1_1detail_1_1BlockingWaitTask" ],
+    [ "decay_rvalue_reference", "structfolly_1_1coro_1_1detail_1_1decay__rvalue__reference.html", "structfolly_1_1coro_1_1detail_1_1decay__rvalue__reference" ],
+    [ "decay_rvalue_reference< T && >", "structfolly_1_1coro_1_1detail_1_1decay__rvalue__reference_3_01T_01_6_6_01_4.html", null ],
+    [ "InlineTask", "classfolly_1_1coro_1_1detail_1_1InlineTask.html", "classfolly_1_1coro_1_1detail_1_1InlineTask" ],
+    [ "InlineTaskPromise", "classfolly_1_1coro_1_1detail_1_1InlineTaskPromise.html", "classfolly_1_1coro_1_1detail_1_1InlineTaskPromise" ],
+    [ "InlineTaskPromise< void >", "classfolly_1_1coro_1_1detail_1_1InlineTaskPromise_3_01void_01_4.html", "classfolly_1_1coro_1_1detail_1_1InlineTaskPromise_3_01void_01_4" ],
+    [ "InlineTaskPromiseBase", "classfolly_1_1coro_1_1detail_1_1InlineTaskPromiseBase.html", "classfolly_1_1coro_1_1detail_1_1InlineTaskPromiseBase" ],
+    [ "TaskPromise", "classfolly_1_1coro_1_1detail_1_1TaskPromise.html", "classfolly_1_1coro_1_1detail_1_1TaskPromise" ],
+    [ "TaskPromise< void >", "classfolly_1_1coro_1_1detail_1_1TaskPromise_3_01void_01_4.html", "classfolly_1_1coro_1_1detail_1_1TaskPromise_3_01void_01_4" ],
+    [ "TaskPromiseBase", "classfolly_1_1coro_1_1detail_1_1TaskPromiseBase.html", "classfolly_1_1coro_1_1detail_1_1TaskPromiseBase" ],
+    [ "ViaCoroutine", "classfolly_1_1coro_1_1detail_1_1ViaCoroutine.html", "classfolly_1_1coro_1_1detail_1_1ViaCoroutine" ],
+    [ "void_t< decltype(operator co_await(std::declval< Awaitable >()))>", "structfolly_1_1coro_1_1detail_1_1__has__free__operator__co__await_3_01Awaitable_00_01folly_1_1vofcd955856dc0969761ec3ab2ab692023.html", null ],
+    [ "void_t< decltype(std::declval< Awaitable >().operator co_await())>", "structfolly_1_1coro_1_1detail_1_1__has__member__operator__co__await_3_01Awaitable_00_01folly_1_1bd7260b0be74c57157992c3eb541d8b2.html", null ]
+];

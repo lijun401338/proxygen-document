@@ -1,0 +1,27 @@
+var namespacefolly_1_1futures_1_1detail =
+[
+    [ "argResult", "structfolly_1_1futures_1_1detail_1_1argResult.html", "structfolly_1_1futures_1_1detail_1_1argResult" ],
+    [ "ArgType", "structfolly_1_1futures_1_1detail_1_1ArgType.html", null ],
+    [ "ArgType< Arg, Args... >", "structfolly_1_1futures_1_1detail_1_1ArgType_3_01Arg_00_01Args_8_8_8_01_4.html", "structfolly_1_1futures_1_1detail_1_1ArgType_3_01Arg_00_01Args_8_8_8_01_4" ],
+    [ "ArgType<>", "structfolly_1_1futures_1_1detail_1_1ArgType_3_4.html", "structfolly_1_1futures_1_1detail_1_1ArgType_3_4" ],
+    [ "callableResult", "structfolly_1_1futures_1_1detail_1_1callableResult.html", "structfolly_1_1futures_1_1detail_1_1callableResult" ],
+    [ "Core", "classfolly_1_1futures_1_1detail_1_1Core.html", "classfolly_1_1futures_1_1detail_1_1Core" ],
+    [ "CoreCallbackState", "classfolly_1_1futures_1_1detail_1_1CoreCallbackState.html", "classfolly_1_1futures_1_1detail_1_1CoreCallbackState" ],
+    [ "DeferredExecutor", "classfolly_1_1futures_1_1detail_1_1DeferredExecutor.html", "classfolly_1_1futures_1_1detail_1_1DeferredExecutor" ],
+    [ "EmptyConstruct", "structfolly_1_1futures_1_1detail_1_1EmptyConstruct.html", null ],
+    [ "Extract", "structfolly_1_1futures_1_1detail_1_1Extract.html", null ],
+    [ "Extract< R(&)(Args...)>", "structfolly_1_1futures_1_1detail_1_1Extract_3_01R_07_6_08_07Args_8_8_8_08_4.html", "structfolly_1_1futures_1_1detail_1_1Extract_3_01R_07_6_08_07Args_8_8_8_08_4" ],
+    [ "Extract< R(*)(Args...)>", "structfolly_1_1futures_1_1detail_1_1Extract_3_01R_07_5_08_07Args_8_8_8_08_4.html", "structfolly_1_1futures_1_1detail_1_1Extract_3_01R_07_5_08_07Args_8_8_8_08_4" ],
+    [ "Extract< R(Class::*)(Args...) const  >", "structfolly_1_1futures_1_1detail_1_1Extract_3_01R_07Class_1_1_5_08_07Args_8_8_8_08_01const_01_01_4.html", "structfolly_1_1futures_1_1detail_1_1Extract_3_01R_07Class_1_1_5_08_07Args_8_8_8_08_01const_01_01_4" ],
+    [ "Extract< R(Class::*)(Args...)>", "structfolly_1_1futures_1_1detail_1_1Extract_3_01R_07Class_1_1_5_08_07Args_8_8_8_08_4.html", "structfolly_1_1futures_1_1detail_1_1Extract_3_01R_07Class_1_1_5_08_07Args_8_8_8_08_4" ],
+    [ "FutureBase", "classfolly_1_1futures_1_1detail_1_1FutureBase.html", "classfolly_1_1futures_1_1detail_1_1FutureBase" ],
+    [ "retrying_policy_fut_tag", "structfolly_1_1futures_1_1detail_1_1retrying__policy__fut__tag.html", null ],
+    [ "retrying_policy_raw_tag", "structfolly_1_1futures_1_1detail_1_1retrying__policy__raw__tag.html", null ],
+    [ "retrying_policy_traits", "structfolly_1_1futures_1_1detail_1_1retrying__policy__traits.html", "structfolly_1_1futures_1_1detail_1_1retrying__policy__traits" ],
+    [ "SpinLock", "structfolly_1_1futures_1_1detail_1_1SpinLock.html", "structfolly_1_1futures_1_1detail_1_1SpinLock" ],
+    [ "tryCallableResult", "structfolly_1_1futures_1_1detail_1_1tryCallableResult.html", "structfolly_1_1futures_1_1detail_1_1tryCallableResult" ],
+    [ "TryEquals", "structfolly_1_1futures_1_1detail_1_1TryEquals.html", "structfolly_1_1futures_1_1detail_1_1TryEquals" ],
+    [ "valueCallableResult", "structfolly_1_1futures_1_1detail_1_1valueCallableResult.html", "structfolly_1_1futures_1_1detail_1_1valueCallableResult" ],
+    [ "WaitExecutor", "classfolly_1_1futures_1_1detail_1_1WaitExecutor.html", "classfolly_1_1futures_1_1detail_1_1WaitExecutor" ],
+    [ "WindowFakeVector", "structfolly_1_1futures_1_1detail_1_1WindowFakeVector.html", "structfolly_1_1futures_1_1detail_1_1WindowFakeVector" ]
+];

@@ -1,0 +1,4 @@
+var structfolly_1_1fibers_1_1FirstArgOf_3_01F_00_01typename_01std_1_1enable__if_3_01std_1_1is__class9dc20527c306c9303bf1c958a1053d59 =
+[
+    [ "type", "structfolly_1_1fibers_1_1FirstArgOf_3_01F_00_01typename_01std_1_1enable__if_3_01std_1_1is__class9dc20527c306c9303bf1c958a1053d59.html#aa9c624cd148cefb9eeaa9ede1aa2085c", null ]
+];

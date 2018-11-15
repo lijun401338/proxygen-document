@@ -1,0 +1,4 @@
+var namespacefolly_1_1expected__detail_1_1expected__detail__ExpectedHelper =
+[
+    [ "ExpectedHelper", "structfolly_1_1expected__detail_1_1expected__detail__ExpectedHelper_1_1ExpectedHelper.html", "structfolly_1_1expected__detail_1_1expected__detail__ExpectedHelper_1_1ExpectedHelper" ]
+];
